@@ -1,0 +1,122 @@
+<style>
+* {
+    box-sizing:border-box;
+}
+
+#title {
+    text-align:center;
+}
+
+#log_in_buttons {
+    text-align:left;
+}
+
+#header {
+    width:98%;
+    height:auto;
+    background-color:lightblue;
+    color:black;
+    padding:1%;
+    border:2px solid gray;
+}
+
+#header_title_logo {
+    padding-bottom:1%;
+}
+
+#body {
+    width:100%;
+    margin-top:1%;
+    margin-bottom:1%;
+    background-color:red;
+    padding:2px;
+
+}
+
+#pagecolor {
+    background-color:red;
+}
+
+#footer {
+    width:98%;
+    background-color:lightblue;
+    color:black;
+    padding:1%;
+    border:2px solid gray;
+}
+
+#europe_map {
+    display:block;
+    border:2px solid black;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+#travel_xp_sec {
+    width:80%;
+    margin-left:auto;
+    margin-right:auto;
+    background-color;
+}
+
+.row:after {
+    content: "";
+    clear:both;
+    display:block;
+}
+
+[class*="col-fl-"] {
+    float:left;
+}
+
+.col-fl-1 {width:8.33%;}
+.col-fl-2 {width:16.66%;}
+.col-fl-3 {width:25%;}
+.col-fl-4 {width:33.33%;}
+.col-fl-5 {width:41.66%;}
+.col-fl-6 {width:50%;}
+.col-fl-7 {width:58.33%;}
+.col-fl-8 {width:66.66%;}
+.col-fl-9 {width:75%;}
+.col-fl-10 {width:83.33%;}
+.col-fl-11 {width:91.66%;}
+.col-fl-12 {width:100%;}
+
+[class*="col-fr-"] {
+    float: right;
+}
+
+.col-fr-1 {width:8.33%;}
+.col-fr-2 {width:16.66%;}
+.col-fr-3 {width:25%;}
+.col-fr-4 {width:33.33%;}
+.col-fr-5 {width:41.66%;}
+.col-fr-6 {width:50%;}
+.col-fr-7 {width:58.33%;}
+.col-fr-8 {width:66.66%;}
+.col-fr-9 {width:75%;}
+.col-fr-10 {width:83.33%;}
+.col-fr-11 {width:91.66%;}
+.col-fr-12 {width:100%;}
+
+[class*="col-tr-xp-"] {
+    float:left;
+}
+
+.col-tr-xp-1 {
+    width:31.33%;
+    margin-bottom:1%;
+    margin-left:1%;
+    margin-right:1%;
+    }
+
+.searchbar{
+    width:80%;
+    padding:2%;
+    margin: 0 auto;
+    padding-top:auto;
+    height:auto;
+    text-align:center;
+}
+
+</style>

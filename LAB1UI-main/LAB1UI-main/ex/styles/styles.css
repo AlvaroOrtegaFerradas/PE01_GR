@@ -1,0 +1,21 @@
+
+<style>
+* {
+    box-sizing:border-box;
+}
+
+#title {
+    text-align:center;
+}
+
+#log_in_buttons {
+    text-align:left;
+}
+
+#header {
+    width:99%;
+    background-color:lightblue;
+    color:black;
+    padding:1%;
+}
+</style>
